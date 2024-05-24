@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="42a654dc-1cc4-403c-b8ff-9e6cd545ebad" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/threading.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classic_download_img.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classic_threading.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/concurrent_future_withCM.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/concurrent_future_withoutCM.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/download_classic_threading.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/download_concurrent_future.py" afterDir="false" />
-    </list>
+    <list default="true" id="42a654dc-1cc4-403c-b8ff-9e6cd545ebad" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
